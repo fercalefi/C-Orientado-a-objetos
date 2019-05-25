@@ -6,7 +6,7 @@ namespace Matriz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite a quantidade de linhas da matriz 2:");
+            Console.WriteLine("Digite a quantidade de linhas da matriz 3:");
             int n1 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite a quantidade de colunas da matriz:");
